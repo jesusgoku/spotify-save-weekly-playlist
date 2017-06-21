@@ -1,0 +1,2 @@
+spotipy==2.4.4
+honcho==1.0.1
